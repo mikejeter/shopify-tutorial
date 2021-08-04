@@ -1,0 +1,25 @@
+{
+  "name": "shopify-tutorial",
+  "version": "1.0.0",
+  "description": "debut theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikejeter/shopify-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikejeter/shopify-tutorial/issues"
+  },
+  "homepage": "https://github.com/mikejeter/shopify-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^5.0.0"
+  }
+}
